@@ -1,0 +1,25 @@
+[titulo]Tokyo Ghoul 01[/titulo]
+
+[autor]Sui Ishida[/autor]
+
+[genero]manga[/genero]
+
+[sinopse]O tímido Kaneki Ken consegue marcar um encontro com a bela Rize… cujo interesse por ele não é o esperado. O destino de Ken altera-se drasticamente. Ele vai descobrir a sociedade Ghoul e novos poderes que terá de aprender a controlar…[/sinopse]
+
+[paginas]224 páginas a preto, capa mole[/paginas]
+
+[formato]12,6 x 19 cm[/formato]
+
+[isbn]978-989-559-284-5[/isbn]
+
+[copyright]TOKYO GHOUL ©2011 by Sui Ishida/SHUEISHA Inc.[/copyright]
+
+[preco]9,99€[/preco]
+
+[desconto]8,88€[/desconto]
+
+[capa]TG01_capa.jpg[/capa]
+
+[inside]TG01_inside.jpg[/inside]
+
+[parecidos]manga/tokyoghoul02.manga/tokyoghoul03.manga/tokyoghoul04.manga/tokyoghoul05.manga/tokyoghoul06.manga/tokyoghoul07[/parecidos]

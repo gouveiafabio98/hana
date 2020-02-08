@@ -1,0 +1,7 @@
+[locais]Coimbra.Viseu.Porto[/locais]
+
+[coimbra]Café Livraria Almedina.Livraria Minerva.Livraria Bertrand[/coimbra]
+
+[viseu]Livraria Jornal Da Beira.Pretexo[/viseu]
+
+[porto]Teste Livraria[/porto]

@@ -1,0 +1,27 @@
+[titulo]Tokyo Ghoul 05[/titulo]
+
+[autor]Sui Ishida[/autor]
+
+[genero]manga[/genero]
+
+[sinopse]Kaneki, Nishiki e Toka lutam para salvar Kimi, a sua amiga humana.
+Nas ruas, baixas da guerra entre a Comissão Anti-Ghouls e os Ghouls aumentam e os Pombos não dão tréguas…
+Serão Kaneki e os seus amigos capazes de lidar com o desafio?[/sinopse]
+
+[paginas]204 páginas a preto, capa mole[/paginas]
+
+[formato]12,6 x 19 cm[/formato]
+
+[isbn]978-989-559-314-9[/isbn]
+
+[copyright]TOKYO GHOUL ©2011 by Sui Ishida/SHUEISHA Inc.[/copyright]
+
+[preco]9,99€[/preco]
+
+[desconto][/desconto]
+
+[capa]TG05_capa.jpg[/capa]
+
+[inside]TG02_inside.jpg[/inside]
+
+[parecidos]manga/tokyoghoul01.manga/tokyoghoul02.manga/tokyoghoul03.manga/tokyoghoul04.manga/tokyoghoul06.manga/tokyoghoul07[/parecidos]

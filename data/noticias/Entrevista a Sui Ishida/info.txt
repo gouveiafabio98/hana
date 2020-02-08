@@ -1,0 +1,41 @@
+[cover]img1.png[/cover]
+
+[titulo]Entrevista a Sui Ishida[/titulo]
+
+[subtitulo]Autor de Tokyo Ghoul[/subtitulo]
+
+[data]2019-02-14[/data]
+
+[info]
+[p]
+[video]video[format]3gp.mkv.mov.mp4[/format][/video]
+Esse artigo foi originalmente escrito por [b]Yayoi Kawatoko / Yomiuri Shimbun[/b] da equipe de redação do site The Japan News.
+[br]
+O recém-concluído mangá “Tokyo Ghoul” vendeu cerca de um total de 37 milhões de cópias. O autor <b>Sui Ishida</b> falou recentemente com o [b]Yomiuri Shimbun[/b] (um jornal japonês) sobre a altamente popular fantasia que se tornou sua série de estréia, a primeira vez que ele elaborou este trabalho para a mídia.
+[br]
+A entrevista do <b>Yomiuri com Ishida</b>, que mora na Prefeitura de Fukuoka, foi conduzida via Skype. Entre outras coisas, falamos sobre como sua ideia da “coexistência de exclusividades mútuas” nasceu.
+[br]
+A seguir, um resumo da entrevista.
+[br]
+O [b]Yomiuri Shimbun:[/b] De onde você tirou a idéia de “ghouls”, uma espécie que não pode sobreviver a menos que consuma carne humana?
+[br]
+[b]Sui Ishida:[/b] Eu queria retratar personagens malvados que também pertencem a um grupo minoritário, embora eu prefira pessoalmente histórias de amor e comédias. Eu pensei que seria interessante se os indivíduos de tal espécie estivessem secretamente vivendo entre pessoas comuns. Assassinos sedentos de sangue pareciam muito comuns. Contei a história em Tóquio porque estava ciente da realidade assustadora de uma sociedade de massa em que as pessoas podiam ficar indiferentes a coisas grotescas que aconteciam ao seu redor.
+[/p]
+[p]
+[img]img1.png[/img]
+[b]P:[/b] Logo após o início da história, o personagem principal Kaneki se torna uma pessoa que não é humana nem ghoul.
+[br]
+[b]R:[/b] Eu fiz de Kaneki um meio ghoul para tornar mais fácil para os leitores simpatizarem com os dois grupos. A partir de então, comecei a pensar em como eles poderiam coexistir, e tecer a história a partir daí foi uma verdadeira luta para mim.
+[br]
+[b]P:[/b] Há ghouls que repreendem alegremente humanos, mas também há outros que amam a paz e que nunca atacam as pessoas. Há também cenas em que os investigadores, que são seres humanos, parecem mais brutais do que os ghouls.<br>
+[b]R:[/b] Isso pode ser porque eu sinto simpatia pelas minorias. Meus pais eram cristãos, assim como funcionários da empresa, que eram frequentemente transferidos, então eu tive essa sensação de estar alienado durante a minha infância. Eu senti como se estivesse entre a maioria e os grupos minoritários. Eu era a pessoa que ouvia amigos que falavam sobre religião, gênero e questões familiares. Eu acho que essa parte de mim se refletiu na história.<br>
+[b]P:[/b] Eu sinto muito por Kaneki. Ele nasceu como um ser humano, mas se transforma em um ser que só pode sobreviver em carne humana. É tão trágico.
+[br]
+[b]R:[/b] Foi muito difícil retratá-lo quando ele estava falando por mim. Há uma cena em que Yamori, um sarcástico sádico, sequestra e tortura Kaneki enquanto diz a ele que "a razão para todas as coisas ruins no mundo é apenas a incompetência do indivíduo". Essa frase fascina Kaneki. Para ser honesto, houve um tempo em que eu concordei com essa ideia, pensando que coisas como "pessoas que não são felizes simplesmente não estão se esforçando o suficiente", ou "são apenas mimadas pelo ambiente".
+[br]
+[b]P:[/b] Você está falando sobre a ideia de "assumir responsabilidade por si mesmo" que existe há algum tempo?
+[br]
+[b]R:[/b] Sim. Mas essas palavras definitivamente levam as pessoas a um lugar, não? Por exemplo, não estou produzindo meu mangá sozinho. Eu posso fazer isso por causa da minha equipe, os editores - pessoas que eu posso pedir conselhos. Eu por acaso tenho sorte.
+[br]
+[/p]
+[/info]

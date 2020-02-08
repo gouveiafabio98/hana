@@ -1,0 +1,26 @@
+[titulo]Tokyo Ghoul 07[/titulo]
+
+[autor]Sui Ishida[/autor]
+
+[genero]manga[/genero]
+
+[sinopse]Kaneki é capturado e interrogado por Yamori, um dos elementos mais sádicos do gangue Aogiri Tree.
+Será Kaneki capaz de sobreviver, conservando o seu lado mais humano? Ou vai ter enfim que ceder ao ghoul que há dentro de si?[/sinopse]
+
+[paginas]198 páginas a preto, capa mole[/paginas]
+
+[formato]12,6 x 19 cm[/formato]
+
+[isbn]978-989-559-366-8[/isbn]
+
+[copyright]TOKYO GHOUL ©2011 by Sui Ishida/SHUEISHA Inc.[/copyright]
+
+[preco]9,99€[/preco]
+
+[desconto]7,77€[/desconto]
+
+[capa]TG07_capa.jpg[/capa]
+
+[inside]TG02_inside.jpg[/inside]
+
+[parecidos]manga/tokyoghoul01.manga/tokyoghoul02.manga/tokyoghoul03.manga/tokyoghoul04.manga/tokyoghoul05.manga/tokyoghoul06[/parecidos]

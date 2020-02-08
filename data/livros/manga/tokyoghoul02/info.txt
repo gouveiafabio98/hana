@@ -1,0 +1,26 @@
+[titulo]Tokyo Ghoul 02[/titulo]
+
+[autor]Sui Ishida[/autor]
+
+[genero]manga[/genero]
+
+[sinopse]Sem conseguir ignorar a sua humanidade, mas igualmente incapaz de suprimir a fome Ghoul, Kaneki refugia-se na comunidade Ghoul para tentar adaptar-se à sua nova condição.
+Mas, rapidamente se vê confrontado com os inimigos mortais dos Ghoul…[/sinopse]
+
+[paginas]208 páginas a preto, capa mole[/paginas]
+
+[formato]12,6 x 19 cm[/formato]
+
+[isbn]978-989-559-285-2[/isbn]
+
+[copyright]TOKYO GHOUL ©2011 by Sui Ishida/SHUEISHA Inc.[/copyright]
+
+[preco]9,99€[/preco]
+
+[desconto][/desconto]
+
+[capa]TG02_capa.jpg[/capa]
+
+[inside]TG02_inside.jpg[/inside]
+
+[parecidos]manga/tokyoghoul01.manga/tokyoghoul03.manga/tokyoghoul04.manga/tokyoghoul05.manga/tokyoghoul06.manga/tokyoghoul07[/parecidos]

@@ -1,0 +1,26 @@
+[titulo]Tokyo Ghoul 03[/titulo]
+
+[autor]Sui Ishida[/autor]
+
+[genero]manga[/genero]
+
+[sinopse]Os agentes Mado e Amon, da Comissão Anti-Ghoul continuam à procura de Hinami.
+Conseguirão Kaneki e Toka disfarçar a pista da menina, enquanto tentam criar tréguas entre ghouls e humanos?[/sinopse]
+
+[paginas]196 páginas a preto, capa mole[/paginas]
+
+[formato]12,6 x 19 cm[/formato]
+
+[isbn]978-989-559-300-2[/isbn]
+
+[copyright]TOKYO GHOUL ©2011 by Sui Ishida/SHUEISHA Inc.[/copyright]
+
+[preco]9,99€[/preco]
+
+[desconto][/desconto]
+
+[capa]TG03_capa.jpg[/capa]
+
+[inside]TG02_inside.jpg[/inside]
+
+[parecidos]manga/tokyoghoul01.manga/tokyoghoul02.manga/tokyoghoul04.manga/tokyoghoul05.manga/tokyoghoul06.manga/tokyoghoul07[/parecidos]

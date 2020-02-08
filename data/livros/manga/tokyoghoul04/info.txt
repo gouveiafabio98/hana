@@ -1,0 +1,26 @@
+[titulo]Tokyo Ghoul 04[/titulo]
+
+[autor]Sui Ishida[/autor]
+
+[genero]manga[/genero]
+
+[sinopse]Kaneki conhece Shu Tsukiyama, outro ghoul a quem chamam o Gourmet devido aos seus gostos… interessantes.
+E desvenda um pouco mais do passado de Rize, enquanto Kaneki continua a tentar aprofundar a sua condição de ghoul.[/sinopse]
+
+[paginas]196 páginas a preto, capa mole[/paginas]
+
+[formato]12,6 x 19 cm[/formato]
+
+[isbn]978-989-559-313-2[/isbn]
+
+[copyright]TOKYO GHOUL ©2011 by Sui Ishida/SHUEISHA Inc.[/copyright]
+
+[preco]9,99€[/preco]
+
+[desconto][/desconto]
+
+[capa]TG04_capa.jpg[/capa]
+
+[inside]TG02_inside.jpg[/inside]
+
+[parecidos]manga/tokyoghoul01.manga/tokyoghoul02.manga/tokyoghoul03.manga/tokyoghoul05.manga/tokyoghoul06.manga/tokyoghoul07[/parecidos]

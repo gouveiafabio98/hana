@@ -1,0 +1,27 @@
+[categorias]artefoto.biografia.negocios.infantis.culinaria.historia.literatura.manga.jovens.misterio.romance.fantasia[/categorias]
+
+[manga]Manga & BD[/manga]
+
+[artefoto]Arte & Fotografia[/artefoto]
+
+[biografia]Biografia & Memoriais[/biografia]
+
+[negocios]Negócios & Dinheiro[/negocios]
+
+[infantis]Livros Infantis[/infantis]
+
+[culinaria]Culinária, Comida & Vinho[/culinaria]
+
+[historia]História[/historia]
+
+[literatura]Literatura & Ficção[/literatura]
+
+[jovens]Adolescentes & Jovens[/jovens]
+
+[misterio]Mistério, Thriller & Suspense[/misterio]
+
+[romance]Romance[/romance]
+
+[fantasia]Ficção Cientifica & Fantasia[/fantasia]
+
+[ultimos]manga/tokyoghoul02.manga/tokyoghoul03.manga/tokyoghoul04.manga/tokyoghoul05.manga/tokyoghoul06.manga/tokyoghoul07[/ultimos]
